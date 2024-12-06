@@ -1,0 +1,59 @@
+@font-face {
+    font-family: genshin;
+    src: url(font/zh-cn.ttf);
+}
+body {
+    background-image: url(images/kiraraback.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: genshin;
+}
+h1 {
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 4vw;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+::-webkit-scrollbar {
+    width: 20px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: #5e3902;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #649704;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #3d5c03;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+background-color: #111;
+}
+.active {
+background-color: #04AA6D;
+}
