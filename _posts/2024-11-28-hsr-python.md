@@ -5,7 +5,7 @@ date: 2024-11-28
 categories: [project, python]
 tags: [hsr]
 image:
- path: /assets/img/kirara_sticker1.png
+ path: /assets/img/ghost_squad.png
 ---
 ## Continuation of my previous project!
 If you've seen the post before this, then let me explain. This is the battle system independently from the project that I want to improve and complete. It will include ***all*** characters and mechanics that I can possible code. It's still currently in Alpha, only having 7 characters for now, but it shows what the future of the project will be. 
@@ -22,7 +22,7 @@ You already know what it is if you've played Honkai: Star Rail already. It's goi
     *Tier List Format*
 
 2. **Most Mechanics**
-    - Outside just Crit effects, this project will include everything else like status effects (Freeze and DoT), break, and etc. Sorry, no image right now.
+    - Outside just Crit effects right now, future versions of this project will include everything else like status effects (Freeze and DoT), Break Damage, and etc. Sorry, no image right now.
 
 ## Where to download?
 I uploaded the directories the project is on to GitHub. Just click [Here!](https://github.com/Idkwhat77/HSR-Python)

@@ -18,7 +18,7 @@ Alright, let's get on with it.
 My project revolves around the plot where the main character, [Fu Xuan](https://honkai-star-rail.fandom.com/wiki/Fu_Xuan) from [Honkai: Star Rail](https://hsr.hoyoverse.com/), embarks on an epic quest to obtain a vanilla milkshake. Along the way, players encounter various challenges, including turn-based battles, a cooking minigame, and visual novel style dialogue. You can download the zip file of the raw code [here](https://drive.google.com/file/d/1WrD4h7bwPcNL9g-jWWiU05fan--avIKo).
 
 1. **Storytelling and Humor**
-    - The game features playful dialogue and situations, such as Fu Xuan’s unusual request and many others. There is also multiple endings which are all doable while some may require some effort to get (such as letting Fu Xuan die in the Turn Based RPG minigame), which add replayability and fun.
+    - The game features playful dialogue and situations, such as Fu Xuan’s unusual request and many others. There is also multiple endings which are all doable while some may require some effort to get (such as letting Fu Xuan die in the Turn Based RPG minigame), which add replayability and fun. It's coded by printing each character in a string every 3 miliseconds.
     ![GIF_VN](/assets/gif/vn_fu_xuan.gif)
     *Intro + Water ending*
 
