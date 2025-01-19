@@ -17,15 +17,37 @@ Alright, let's get on with it.
 ## What's the game about?
 My project revolves around the plot where the main character, [Fu Xuan](https://honkai-star-rail.fandom.com/wiki/Fu_Xuan) from [Honkai: Star Rail](https://hsr.hoyoverse.com/), embarks on an epic quest to obtain a vanilla milkshake. Along the way, players encounter various challenges, including turn-based battles, a cooking minigame, and more accompanied by visual novel style dialogue. 
 
+## Character Introductions
+
+1. **Fu Xuan**
+    ![fu_xuan](/assets/img/Character_Fu_Xuan_Splash_Art.webp)
+    *Fu Xuan's ingame splash art*
+
+    The confident yet blunt Master Diviner of the Xianzhou Luofu's Divination Commission and one of the Six Charioteers. She calculates the Xianzhou Luofu's route and foretells the outcome of future events, as she feels that what she does is the wisest course of action[^1]. Behind her serious expression, she hides an undying love for sugary drinks, which inspired this whole entire game to be made.
+    
+    Fu Xuan is the main character of this game and appears on every single route and ending.
+
+    [^1]: "Fu Xuan - Honkai Star Rail Wiki," Fandom, https://honkai-star-rail.fandom.com/wiki/Fu_Xuan. Accessed 2024-11-24.
+
+2. **Qingque**
+    ![qingque](/assets/img/Character_Qingque_Splash_Art.webp)
+    *Qingque's ingame splash art*
+
+    An average Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian. She never slacks off when it comes to slacking off and is about to be demoted to a "door guardian."[^2]
+
+    Qingque is a side character that only appears during the battle route and its respective endings.
+    
+    [^2]: "Qingque - Honkai Star Rail Wiki," Fandom, https://honkai-star-rail.fandom.com/wiki/Qingque. Accessed 2024-11-24.
+
 ## Features
 
 1. **Storytelling and "Humor"**
-    - The game features playful dialogue and situations, such as Fu Xuan’s unusual request and many others. There is also multiple endings which are all doable while some may require some effort to get (such as letting Fu Xuan die in the Turn Based RPG minigame), which add replayability and fun. It's coded by printing each character in a string every 3 miliseconds.
+    - The game features playful dialogue and situations, such as Fu Xuan’s unusual request and many others. There are also multiple endings which are all doable while some may require some effort to get (such as letting Fu Xuan die in the Turn Based RPG minigame), which adds replayability and fun. It's coded by printing each character in a string every 3 miliseconds.
     ![GIF_VN](/assets/gif/vn_fu_xuan.gif)
     *Intro + Water ending*
 
 2. **Turn Based minigame**
-    - Players control two characters, Fu Xuan and [Qingque](https://honkai-star-rail.fandom.com/wiki/Fu_Xuan), each with abilities directly from the game and stats from my own personal account. Fu Xuan excels in defensive and keeping the party alive while turning most damage into her, while Qingque offers powerful but RNG attack mechanics. The combat system uses a queue to manage turn order, alternating between characters and the enemy.
+    - Players control two characters, Fu Xuan and [Qingque](https://honkai-star-rail.fandom.com/wiki/Qingque), each with abilities directly from the game and stats from my own personal account. Fu Xuan excels in defensive and keeping the party alive while turning most damage into her, while Qingque offers powerful but RNG attack mechanics. The combat system uses a queue to manage turn order, alternating between characters and the enemy.
     ![GIF_FIGHT](/assets/gif/fight_fu_xuan.gif)
     *Fu Xuan and Qingque using their skill and basic attack.*
 
@@ -216,7 +238,7 @@ My project revolves around the plot where the main character, [Fu Xuan](https://
 You can download the zip file of the entire project [here](https://drive.google.com/file/d/1WrD4h7bwPcNL9g-jWWiU05fan--avIKo).
 
 ## What's next?
-After this, I'm planning to develop the battle system further independently of the project, which will include all of Star Rail's characters and mechanics and all that. It will take a while, but I assure you that I ***will*** make it, whatever it takes.
+After this, I'm planning to develop the battle system further independently of the project, which will include all of Star Rail's characters and mechanics. It'll take a while, but I assure you that I ***am*** commited to making this a reality, no matter what it takes!
 
 ## Conclusion
-This project has been a fantastic way to apply the concepts I’ve learned in my algorithm programming lecture. It’s been both a technical and creative journey, and I’m proud of what I’ve accomplished so far. Fu Xuan’s quest for a milkshake is a testament to how programming can bring even the wildest ideas to life. I hope to inspire others to take on similar projects and explore the exciting world of game development.
+This project has been a fantastic way to apply the concepts I’ve learned in my algorithm programming class. It’s been both a technical and creative journey, and I’m proud of what I’ve accomplished so far. Fu Xuan’s quest for a milkshake is a testament to how programming can bring even the wildest and randomness (does that word even exist?[sic]) to life. I hope to inspire others to take on similar projects and explore the exciting world of game development.
