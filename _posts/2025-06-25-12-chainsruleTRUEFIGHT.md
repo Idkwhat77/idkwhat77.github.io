@@ -14,7 +14,7 @@ What happens when a function inside a function needs to be derivatived? Get deri
 
 ## Chain Rule
 
-The chain rule is used for derivatives with large exponents, such as (3x-7)^12. The formula is defined as:
+The chain rule is used for derivatives with large exponents or a function inside a function, such as (3x-7)^12. The formula is defined as:
 
 $$
 \frac{d}{dx} [f(g(x))] = f'(g(x)) \cdot g'(x)
