@@ -95,6 +95,9 @@ $$
 
 Now we have the derivative. Pretty complicated honestly.
 
+## Random Fact!
+When solving a derivative question, if we want to find a specific x on the derivative and the answer is larger than 0 (x > 0), that means the graph is going up on that x. If it's smaller than 0 (x < 0), it's the opposite. This will be useful in finding if the graph has a top peak or the minimum (bottom peak) for the derivative.
+
 ## Comparison of Limit Solving Methods
 
 | Method              | When to Use                                   | Example Problem                     |
